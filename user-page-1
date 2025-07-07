@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/male/43.jpg",
+        "name": "Olivia Rodriguez",
+        "mail": "olivia.rodriguez@example.com",
+        "location": "New York",
+        "phone": "+1-555-0101",
+        "jobTitle": "Software Engineer",
+        "website": "https://olivia.rodriguez.dev",
+        "company": "TechNova",
+        "address": "10 Market St, New York, USA"
+    },
+    {
+        "id": 2,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/male/22.jpg",
+        "name": "Michael Brown",
+        "mail": "michael.brown@example.com",
+        "location": "New York",
+        "phone": "+1-555-0102",
+        "jobTitle": "Software Engineer",
+        "website": "https://michael.brown.dev",
+        "company": "CloudHive",
+        "address": "20 Market St, New York, USA"
+    },
+    {
+        "id": 3,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/male/12.jpg",
+        "name": "Matthew Williams",
+        "mail": "matthew.williams@example.com",
+        "location": "Seattle",
+        "phone": "+1-555-0103",
+        "jobTitle": "Data Scientist",
+        "website": "https://matthew.williams.dev",
+        "company": "MarketWise",
+        "address": "30 Market St, Seattle, USA"
+    },
+    {
+        "id": 4,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/female/69.jpg",
+        "name": "Sophia Jones",
+        "mail": "sophia.jones@example.com",
+        "location": "Chicago",
+        "phone": "+1-555-0104",
+        "jobTitle": "Product Manager",
+        "website": "https://sophia.jones.dev",
+        "company": "CloudHive",
+        "address": "40 Market St, Chicago, USA"
+    },
+    {
+        "id": 5,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/male/64.jpg",
+        "name": "Michael Rodriguez",
+        "mail": "michael.rodriguez@example.com",
+        "location": "San Francisco",
+        "phone": "+1-555-0105",
+        "jobTitle": "Data Scientist",
+        "website": "https://michael.rodriguez.dev",
+        "company": "CloudHive",
+        "address": "50 Market St, San Francisco, USA"
+    },
+    {
+        "id": 6,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/male/1.jpg",
+        "name": "Matthew Jack",
+        "mail": "matthew.jack@example.com",
+        "location": "New York",
+        "phone": "+1-555-0106",
+        "jobTitle": "Driver",
+        "website": "https://matthew.jack.dev",
+        "company": "DesignLoop",
+        "address": "60 Market St, New York, USA"
+    },
+    {
+        "id": 7,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/male/52.jpg",
+        "name": "Michael Miller",
+        "mail": "michael.miller@example.com",
+        "location": "Seattle",
+        "phone": "+1-555-0107",
+        "jobTitle": "Designer",
+        "website": "https://michael.miller.dev",
+        "company": "CloudHive",
+        "address": "70 Market St, Seattle, USA"
+    },
+    {
+        "id": 8,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/female/21.jpg",
+        "name": "Mia Thomas",
+        "mail": "mia.thomas@example.com",
+        "location": "New York",
+        "phone": "+1-555-0108",
+        "jobTitle": "Product Manager",
+        "website": "https://mia.thomas.dev",
+        "company": "TechNova",
+        "address": "80 Market St, New York, USA"
+    },
+    {
+        "id": 9,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/male/35.jpg",
+        "name": "William Garcia",
+        "mail": "william.garcia@example.com",
+        "location": "Seattle",
+        "phone": "+1-555-0109",
+        "jobTitle": "Product Manager",
+        "website": "https://william.garcia.dev",
+        "company": "MarketWise",
+        "address": "90 Market St, Seattle, USA"
+    },
+    {
+        "id": 10,
+        "profileImage": "https://xsgames.co/randomusers/assets/avatars/female/26.jpg",
+        "name": "Emily Anderson",
+        "mail": "emily.anderson@example.com",
+        "location": "Seattle",
+        "phone": "+1-555-0110",
+        "jobTitle": "Designer",
+        "website": "https://emily.anderson.dev",
+        "company": "DesignLoop",
+        "address": "100 Market St, Seattle, USA"
+    }
+]
